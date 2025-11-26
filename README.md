@@ -1,7 +1,7 @@
 # University Projects
 Here you will all my university projects.
 ## NonOs ![](https://img.shields.io/badge/cpp-blue)
-[NonOs]](https://github.com/diaarca/NonOS) aims to implement on operating system from zero including system calls, virtual memory, threads/processes file system and network primitives.
+[NonOs](https://github.com/diaarca/NonOS) aims to implement on operating system from zero including system calls, virtual memory, threads/processes file system and network primitives.
 ## Distributed System Game ![](https://img.shields.io/badge/Java-red)
 [Distributed System Game](https://github.com/diaarca/distributed-system-game) aims to implement a simple game using a variable number of server node to handle clients.
 ## MyAlloc ![](https://img.shields.io/badge/C-red)
@@ -22,7 +22,7 @@ Here you will all my university projects.
 [Climate Project](https://github.com/diaarca/university-projects/tree/main/curiosity) aims to create a Data Base about the climate in France.
 ## Calculator ![](https://img.shields.io/badge/C-red)
 [Calculator](https://github.com/diaarca/university-projects/tree/main/calculator) aims to create a calculator command interpreter, a computer program that accepts interactive text commands from a file and executes them.
-## Curiosity ![](https://img.shields.io/badge/C-red)
-[Curiosity](https://github.com/diaarca/university-projects/tree/main/curiosity) aims to create an instruction interpreter for a little bot that moves in a 2D environnement.
 ## Public Transit Agency ![](https://img.shields.io/badge/python-blue) ![](https://img.shields.io/badge/Sql-blue)
 [Public Transit Agency](https://github.com/diaarca/public-transit-agency) aims to create manage a public transit agency using the database in a python GUI.
+## Curiosity ![](https://img.shields.io/badge/C-red)
+[Curiosity](https://github.com/diaarca/university-projects/tree/main/curiosity) aims to create an instruction interpreter for a little bot that moves in a 2D environnement.
