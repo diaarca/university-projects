@@ -2,8 +2,10 @@
 Here you will all my university projects.
 ## NonOs ![](https://img.shields.io/badge/cpp-blue)
 [NonOs] ![](https://github.com/diaarca/NonOS) aims to implement on operating system from zero including system calls, virtual memory, threads/processes file system and network primitives.
+## MyAlloc ![](https://img.shields.io/badge/C-red)
+[MyAlloc] ![](https://github.com/diaarca/MyAlloc) aims to implement malloc primitives from zero with pointer arithmetic.
 ## Distributed System Game ![](https://img.shields.io/badge/Java-red)
-[Distributed System Game] ![](https://github.com/diaarca/distributed-system-game/settings) aims to implement a simple game using a variable number of server node to handle clients.
+[Distributed System Game] ![](https://github.com/diaarca/distributed-system-game) aims to implement a simple game using a variable number of server node to handle clients.
 ## Kube ![](https://img.shields.io/badge/Java-red)
 [Kube](https://github.com/diaarca/Kube) aims to create a clone of the K3 classic game in Java.
 ## Waffle ![](https://img.shields.io/badge/Java-red)
