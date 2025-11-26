@@ -1,5 +1,5 @@
 # Calculator
-This is an university project (in collaboration with [Mohamed Badzi](https://github.com/badzim)) that aim to create a calculator command interpreter, a computer program that accepts interactive text commands from a file and executes them.
+This is an university project (in collaboration with [Mohamed Badzi](https://github.com/badzim)) that aims to create a calculator command interpreter, a computer program that accepts interactive text commands from a file and executes them.
 ## Installation
 1. Build this project :
 ```bash

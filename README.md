@@ -4,6 +4,8 @@ Here you will all my university projects.
 [NonOS](https://github.com/diaarca/NonOS) aims to implement on operating system from zero including system calls, virtual memory, threads/processes file system and network primitives.
 ## Distributed System Game ![](https://img.shields.io/badge/Java-red)
 [Distributed System Game](https://github.com/diaarca/distributed-system-game) aims to implement a simple game using a variable number of server node to handle clients.
+## Babble
+[Babble](https://github.com/diaarca/Babble) aims to implement a local thread based communication chat.
 ## MyAlloc ![](https://img.shields.io/badge/C-red)
 [MyAlloc](https://github.com/diaarca/MyAlloc) aims to implement malloc primitives from zero with pointer arithmetic.
 ## Kube ![](https://img.shields.io/badge/Java-red)

@@ -1,5 +1,5 @@
 # Climate Project
-This is an university project (in collaboration with [Thomas Civade](https://github.com/Luminosaa)) that aim to create a Data Base about the climate in France.
+This is an university project (in collaboration with [Thomas Civade](https://github.com/Luminosaa)) that aims to create a Data Base about the climate in France.
 ## Installation
 To run the Climate Project on your local machine, make sure you have Python 3.10 or later installed.
 Also make sure you have all of these Python modules installed:
