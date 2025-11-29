@@ -1,5 +1,7 @@
 # University Projects
 Here you will all my university projects.
+## Baby Tetris ![](https://img.shields.io/badge/cpp-blue)
+[Baby Tetris](https://github.com/diaarca/baby-tetris) aims to create a MDP model for the Tetris game. The goal of such a model is to compute in advance the optimal strategy (maximizing the game score)
 ## NonOS ![](https://img.shields.io/badge/cpp-blue)
 [NonOS](https://github.com/diaarca/NonOS) aims to implement on operating system from zero including system calls, virtual memory, threads/processes file system and network primitives.
 ## Distributed System Game ![](https://img.shields.io/badge/Java-red)
