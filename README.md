@@ -1,5 +1,7 @@
 # University Projects
 Here you will all my university projects.
+## Ghost Hunteer Simulator ![](https://img.shields.io/badge/Java-red)
+[Ghost Hunter Simulator](https://github.com/diaarca/ghost-hunter) aims to simulate the Ghost Hunter game based on graph theory.
 ## Baby Tetris ![](https://img.shields.io/badge/cpp-blue)
 [Baby Tetris](https://github.com/diaarca/baby-tetris) aims to create a MDP model for the Tetris game. The goal of such a model is to compute in advance the optimal strategy (maximizing the game score)
 ## NonOS ![](https://img.shields.io/badge/cpp-blue)
