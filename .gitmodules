@@ -1,0 +1,39 @@
+[submodule "ghost-hunter"]
+	path = ghost-hunter
+	url = git@github.com:diaarca/ghost-hunter.git
+[submodule "baby-tetris"]
+	path = baby-tetris
+	url = git@github.com:diaarca/baby-tetris.git
+[submodule "nonos"]
+	path = nonos
+	url = git@github.com:diaarca/NonOS.git
+[submodule "distributed-system-game"]
+	path = distributed-system-game
+	url = git@github.com:diaarca/distributed-system-game.git
+[submodule "babble"]
+	path = babble
+	url = git@github.com:diaarca/Babble.git
+[submodule "my-alloc"]
+	path = my-alloc
+	url = git@github.com:diaarca/MyAlloc.git
+[submodule "kube"]
+	path = kube
+	url = git@github.com:diaarca/Kube.git
+[submodule "poisoned-waffle"]
+	path = poisoned-waffle
+	url = git@github.com:diaarca/poisoned-waffle.git
+[submodule "sokoban"]
+	path = sokoban
+	url = git@github.com:diaarca/Sokoban.git
+[submodule "ftp"]
+	path = ftp
+	url = git@github.com:diaarca/FTP.git
+[submodule "mini-shell"]
+	path = mini-shell
+	url = git@github.com:diaarca/mini-shell.git
+[submodule "arm-simulator"]
+	path = arm-simulator
+	url = git@github.com:diaarca/ARM-simulator.git
+[submodule "public-transit-agency"]
+	path = public-transit-agency
+	url = git@github.com:diaarca/public-transit-agency.git
